@@ -12,4 +12,4 @@ here is a internet picture
 
 here is a local picture
 
-![猪](local.png)
+<img src="local.png" width="50%" length="50%">
