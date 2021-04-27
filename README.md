@@ -8,6 +8,6 @@ to baidu[baidu](https://www.baidu.com)
 
 here is a internet picture
 
-![菜鸟图标]((http://static.runoob.com/images/runoob-logo.png))
+![菜鸟图标](http://static.runoob.com/images/runoob-logo.png)
 
 here is a local picture
